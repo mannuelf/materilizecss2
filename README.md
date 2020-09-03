@@ -12,3 +12,8 @@ To run project run this command:
 ```bash
 $ npm install 
 ```
+Please run the local server
+
+```bash
+light-server
+```
