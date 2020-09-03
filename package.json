@@ -7,7 +7,11 @@
     "dev": "live-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mannuel",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mannuelf/materilizecss2.git"
+  },
   "license": "ISC",
   "dependencies": {
     "materialize-css": "^1.0.0-rc.2"
