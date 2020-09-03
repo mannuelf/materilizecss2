@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server"
+    "dev": "live-server",
+    "build": "npx parcel build index.html"
   },
   "keywords": [],
   "author": "Mannuel",
@@ -17,6 +18,7 @@
     "materialize-css": "^1.0.0-rc.2"
   },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "live-server": "^1.2.1"
   }
 }
